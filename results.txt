@@ -1,0 +1,35 @@
+Welcome to Camel!
+You have stolen a camel to make your way across the great Mobi desert. 
+The natives want their camel back and are chasing you down! Survive your 
+desert trek and out run the natives.
+A.  Drink from your canteen.
+B.  Ahead moderate speed.
+C.  Ahead full speed.
+D.  Stop for the night.
+E.  Status check.
+Q.  Quit.
+Your choice? You traveled 10 miles.
+The natives are getting close!
+Your choice? You traveled 27 miles.
+Your choice? You traveled 44 miles.
+You got lucky and found an oasis! You and the camel were able to rest and you were able to refill your canteen.
+Your choice? You traveled 64 miles.
+Your choice? You traveled 80 miles.
+Your camel is getting tired.
+Your choice? You traveled 92 miles.
+Your camel is getting tired.
+Your choice? The camel is fully rested.
+Your choice? You traveled 112 miles.
+Your choice? You traveled 126 miles.
+You are thristy.
+Your choice? Your choice? You traveled 136 miles.
+Your camel is getting tired.
+Your choice? You traveled 149 miles.
+Your camel is getting tired.
+Your choice? The camel is fully rested.
+Your choice? You traveled 169 miles.
+Your choice? You traveled 185 miles.
+Your choice? You traveled 198 miles.
+You got lucky and found an oasis! You and the camel were able to rest and you were able to refill your canteen.
+Your choice? You traveled 215 miles.
+Congratulations! You made it across the desert!
